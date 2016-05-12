@@ -12,7 +12,6 @@
 	"comment": "ExternalPlugins will cause the bot to look for these extra <pluginname>.json files. If it's not listed here it won't be active",
 	"ExternalPlugins": [
 		"hosts",
-		"repeat",
 		"echo",
 		"whoami"
 	],
