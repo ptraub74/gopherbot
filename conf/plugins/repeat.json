@@ -1,6 +1,6 @@
 {
 	"PluginPath": "plugins/repeat.rb",
-	"Channels": [ "botdev" ],
+	"Channels": [ ],
 	"Help": [
 		{
 			"Keywords": [ "repeat" ],
