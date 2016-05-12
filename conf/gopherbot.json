@@ -12,12 +12,13 @@
 	"comment": "ExternalPlugins will cause the bot to look for these extra <pluginname>.json files. If it's not listed here it won't be active",
 	"ExternalPlugins": [
 		"hosts",
+		"repeat",
 		"echo",
 		"whoami"
 	],
 	"Protocol": "slack",
 	"ProtocolConfig": {
-		"SlackToken": "<your_token_here>",
+		"SlackToken": "xoxb-39854895200-rUWPdI7DNoBuDcSr0dn08MBa",
 		"comment": "MaxMessageSplit specifies the maximum number of messages to break a message into when it's too long (>4000 char)",
 		"MaxMessageSplit": 2
 	}
