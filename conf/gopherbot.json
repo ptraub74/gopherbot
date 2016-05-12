@@ -18,7 +18,7 @@
 	],
 	"Protocol": "slack",
 	"ProtocolConfig": {
-		"SlackToken": "xoxb-39854895200-rUWPdI7DNoBuDcSr0dn08MBa",
+		"SlackToken": "<some text>",
 		"comment": "MaxMessageSplit specifies the maximum number of messages to break a message into when it's too long (>4000 char)",
 		"MaxMessageSplit": 2
 	}
